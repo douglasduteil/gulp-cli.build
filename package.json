@@ -1,7 +1,7 @@
 {
-  "name": "gulp-cli",
+  "name": "gulp-cli.build",
   "description": "The streaming build system",
-  "version": "0.4.0",
+  "version": "4.0.0-build.6e12b13",
   "license": "MIT",
   "homepage": "http://gulpjs.com",
   "repository": "gulpjs/gulp-cli",

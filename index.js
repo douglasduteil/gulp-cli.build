@@ -31,7 +31,7 @@ var ranges = fs.readdirSync(__dirname + '/lib/versioned/');
 process.env.INIT_CWD = process.cwd();
 
 var cli = new Liftoff({
-  name: 'gulp',
+  name: 'gulp-4.0.build',
   completions: completion,
   extensions: interpret.jsVariants,
   v8flags: v8flags,
